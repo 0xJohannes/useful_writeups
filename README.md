@@ -1,0 +1,1 @@
+LD-PRELOAD + IMAGICK = disable_functions bypass [https://github.com/mdsnins/ctf-writeups/blob/master/2019/0ctf%202019/Wallbreaker%20Easy/WallbreakerEasy.md](https://github.com/mdsnins/ctf-writeups/blob/master/2019/0ctf%202019/Wallbreaker%20Easy/WallbreakerEasy.md)
